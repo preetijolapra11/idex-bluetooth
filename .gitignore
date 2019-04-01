@@ -1,0 +1,4 @@
+_extra
+*.idea
+_backup
+.DS_Store

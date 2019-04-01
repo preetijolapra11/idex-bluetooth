@@ -1,0 +1,36 @@
+{
+  "name": "cordova-plugin-idex-bluetooth",
+  "version": "0.0.1",
+  "description": "Cordova Bluetooth Thermal Printer Plugin",
+  "types": "./types/index.d.ts",
+  "cordova": {
+    "id": "cordova-plugin-idex-bluetooth",
+    "platforms": [
+      "android",
+      "ios",
+      "osx"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/preejol/idex-bluetooth.git"
+  },
+  "bugs": {
+    "url": "https://github.com/preejol/idex-bluetooth/issues"
+  },
+  "keywords": [
+    "cordova",
+    "idex-bluetooth",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-osx"
+  ],
+  "scripts": {},
+  "author": "Preeti Jolapra",
+  "license": "Apache-2.0",
+  "engines": {
+
+  },
+  "devDependencies": {
+  }
+}
